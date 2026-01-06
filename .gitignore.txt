@@ -1,0 +1,19 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.fig.bak
+slprj/
+_sfprj/
+*sl_cache/
+*sl_codegen/
+*.mex*
+*.oct
+
+# Simulink temporary files
+*.slxc
+*.sldi
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

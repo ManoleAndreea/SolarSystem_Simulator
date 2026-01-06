@@ -1,0 +1,14 @@
+N=9; % numarul de corpuri 
+m=zeros(1, N); % masele
+r0=zeros(N, 3); % pozitiile initiale
+v0=zeros(N, 3); % vitezele initiale
+
+% pentru ca masa data de jpl horizons este aproximativa, o vom calcula prin
+% relatia : M=GM(dat de NASA)/G(din cerinta).
+
+gm_soare=132712440041.93938;
+g=6.6743e-11;
+m_soare=gm_soare*1e9/g; % inmultim cu 10^9 pentru ca gm e in km, iar g e in
+% m.
+r0(1,:) = [-4.535009730392948E+05, -8.276240601849944E+05, 1.959795032855688E+04] * 1000;
+v0(1,:) = [1.240375092325877E-02, 3.873975780199613E-04, -2.356885107264090E-04] * 1000;
