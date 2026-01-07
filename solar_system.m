@@ -64,4 +64,4 @@ v0(9,:)=[-1.316384688834186E-01, 5.466271211561168E+00, -1.102415019415171E-01]*
 m=[m_soare, m_mercur, m_venus, m_pamant, m_marte, m_jupiter, m_saturn, m_uranus, m_neptun];
 
 % pentru a simula sistemul solar pentru 88 zile vom avea timpul final:
-t_final=88*24*3600; % in secunde
+t_final=58440*24*3600; % in secunde
