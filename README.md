@@ -184,7 +184,7 @@ The error of ~80,000 km for Earth is **not a simulation failure**.
 ## 📚 References
 
 1.  **NASA JPL Horizons System:** [https://ssd.jpl.nasa.gov/horizons/](https://ssd.jpl.nasa.gov/horizons/) - Source of Ephemerides (DE441).
-2.  **Course Requirements:** "Modelare şi simulare, seria III AB - Tema Bonus".
+2.  **Course Requirements:** "Modelare şi simulare, seria III AB".
 3.  **Newtonian Mechanics:** Principia Mathematica, Laws of Universal Gravitation.
 
 ---
